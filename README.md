@@ -1,6 +1,7 @@
 ## flutter hafiza oyunu
+![HafizaOyunu](https://user-images.githubusercontent.com/97352514/164082701-fd1ba3e5-41ce-44c1-afc4-a1320af4e6e4.gif)
 
-![HafizaOyunu](https://user-images.githubusercontent.com/97352514/164081688-a1548148-5821-46b5-b6d5-9af5b52cd696.gif)
+
 
 
 ## Getting Started
