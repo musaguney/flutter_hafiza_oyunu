@@ -1,6 +1,5 @@
 # flutter hafiza oyunu
 
-A new Flutter project.
 
 
 ![HafizaOyunu](https://user-images.githubusercontent.com/97352514/164081688-a1548148-5821-46b5-b6d5-9af5b52cd696.gif)
