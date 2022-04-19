@@ -1,8 +1,20 @@
 ## flutter hafiza oyunu
 ![HafizaOyunu](https://user-images.githubusercontent.com/97352514/164081688-a1548148-5821-46b5-b6d5-9af5b52cd696.gif)
 
+## Getting Started
+This project is a starting point for a Flutter application.
 
-#Hazırlayanlar:
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+
+##Hazırlayanlar:
 1190505029 Musa Güney
 1190505623 Berkant Yurtsever
 
@@ -35,20 +47,6 @@ Ve oyun sonunda skoru ana menüde görünür.
 - Süreyi ve skoru oyun bitiminden db ekleyip oyunun ana sayfasına SON OYUN SKOR, SON OYUN SÜRE olan kısımlarda yazdırdık.
 
 Ek olarak: İf else kullanarak yeni bir karıştırma algoritması yaptık.
-
-
-
-## Getting Started
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 
